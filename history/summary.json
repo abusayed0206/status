@@ -112,19 +112,19 @@
     "url": "https://movies.sayed.app",
     "icon": "https://icons.duckduckgo.com/ip3/movies.sayed.app.ico",
     "slug": "bangla-movies-and-tv-series",
-    "status": "down",
-    "uptime": "91.58%",
-    "uptimeDay": "91.58%",
-    "uptimeWeek": "91.58%",
-    "uptimeMonth": "91.58%",
-    "uptimeYear": "91.58%",
-    "time": 176,
-    "timeDay": 176,
-    "timeWeek": 176,
-    "timeMonth": 176,
-    "timeYear": 176,
+    "status": "up",
+    "uptime": "82.03%",
+    "uptimeDay": "82.03%",
+    "uptimeWeek": "82.03%",
+    "uptimeMonth": "82.03%",
+    "uptimeYear": "82.03%",
+    "time": 267,
+    "timeDay": 267,
+    "timeWeek": 267,
+    "timeMonth": 267,
+    "timeYear": 267,
     "dailyMinutesDown": {
-      "2025-07-17": 44
+      "2025-07-17": 105
     }
   }
 ]
