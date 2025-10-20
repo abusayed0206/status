@@ -8,7 +8,7 @@ sites:
   - name: Resume
     url: https://abusayed.dev
   - name: Blog
-    url: https://blog.abusayed.dev/
+    url: https://sayed.blog
   - name: Projects
     url: https://sayed.app
   - name: Laws of Bangladesh
@@ -17,6 +17,10 @@ sites:
     url: https://cuet.sayed.app
   - name: Bangla Movies & TV Series
     url: https://movies.sayed.app
+  - name: Trakt.tv Page
+    url: https://trakt.sayed.app
+  - name: NextShop
+    url: https://nextshop.com.bd
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -25,10 +29,10 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://commons.wikimedia.org/wiki/File:Flag_of_Bangladesh.svg
   name: Status Page
-  introTitle: "This site is powered by Upptime"
-  introMessage: I listed my personal sites here to keep track of their uptime and performance. Upptime is an open-source GitHub Action that turns your repository into a status page, powered by GitHub Actions and Issues.
+  introTitle: "Status Page"
+  introMessage:  status page for my sites
   navbar:
-    - title: Projects
-      href: https://sayed.app
+    - title: Intro
+      href: https://sayed.page
 
   theme: night
