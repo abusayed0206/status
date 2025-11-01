@@ -1,7 +1,7 @@
 url: https://trakt.sayed.app
-status: down
-code: 403
-responseTime: 321
-lastUpdated: 2025-11-01T18:31:56.981Z
+status: up
+code: 200
+responseTime: 265
+lastUpdated: 2025-11-01T18:47:11.806Z
 startTime: 2025-10-20T21:27:57.692Z
 generator: Upptime <https://github.com/upptime/upptime>
