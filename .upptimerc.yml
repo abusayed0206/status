@@ -25,8 +25,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.sayed.app
-  # baseUrl: /your-repo-name
+
+  baseUrl: /status
   logoUrl: https://commons.wikimedia.org/wiki/File:Flag_of_Bangladesh.svg
   name: Status Page
   introTitle: "Status Page"
